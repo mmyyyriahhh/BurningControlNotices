@@ -1,0 +1,20 @@
+﻿burn_day_decision_code,description
+B,Permissive Burn Day Decision 
+M,Marginal Burn Day Decision
+NB,No-Burn Day Decision
+DB ,Delayed Burn Day Decision
+DN ,Delayed No-Burn Day Decision
+Ab,Decision Amended to Burn Day
+An,Decision Amended to No-Burn Day
+B^,"Burn Day, But Burn Restrictions Requested by CDF, USFS, or APCD"
+M^,"Marginal as requested by CDF, USFS, or APCD"
+S,Superior
+G,Good
+F,Fair
+L,Limited
+U,Updated Acreage
+N,North Wind Day
+W,Wet Conditions
+P,Prunings Only
+R,Restricted Field Day
+E,Extended Burn Hours to 5pm
